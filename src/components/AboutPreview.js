@@ -2,7 +2,7 @@ const AboutPreview = () => {
   return (
     <article className="about">
       <section>
-        <h2 className="title-font pink-text h2-tag">About Me</h2>
+        <h2 className="title-font pink-text h2-tag">About Us</h2>
         <p className="white-text p-tag">
           After working in different fields for over 9 years and seeking
           something special, I have recently found my passion in web
@@ -21,6 +21,9 @@ const AboutPreview = () => {
           <li>SCSS/SASS</li>
           <li>JavaScript ES6+</li>
           <li>React.js</li>
+          <li>Next.js</li>
+          <li>Node Js</li>
+          <li>Mongodb</li>
           <li>RESTful API</li>
           <li>Github</li>
           <li>Git</li>

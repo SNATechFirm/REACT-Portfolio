@@ -5,13 +5,13 @@ const Contact = () => {
   document.title = "Contact | Catherine Mitagvaria";
   function sendEmai() {
     window.open(
-      "mailto:arpitnakrani2580@gmail.com?subject=SendMail&body=Description"
+      "mailto:snacorporations@gmail.com?subject=SendMail&body=Description"
     );
   }
   return (
     <article className="contact-main">
       <section>
-        <h2 className="title-font pink-text h2-tag">Contact Me</h2>
+        <h2 className="title-font pink-text h2-tag">Contact Us</h2>
         <br></br>
         {/* <span className="myemail-txt">&lt; / ekaterine.jpg@gmail.com &gt;</span> */}
         <p className="white-text p-tag">

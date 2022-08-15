@@ -14,7 +14,7 @@ const Portfolio = () => {
           courses and challenges to learn the basics. You can check them on my{" "}
           <span>
             <a
-              href="https://github.com/catherineisonline?tab=repositories"
+              href="https://github.com/SNATechFirm"
               className="pink-text"
               target="_blank"
               rel="noreferrer"

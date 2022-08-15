@@ -12,7 +12,7 @@ const About = () => {
   return (
     <article className="about-main">
       <section>
-        <h2 className="title-font pink-text h2-tag">About Me</h2>
+        <h2 className="title-font pink-text h2-tag">About Us</h2>
         <p className="white-text p-tag">
           After working in different fields for over 3 years and seeking
           something special, I have recently found my passion in web

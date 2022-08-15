@@ -7,7 +7,7 @@ const Footer = () => {
           target="_blank"
           rel="noreferrer"
         >
-          Designed & Built by Arpit 
+          Designed & Built by SNA 
         </a>
       </section>
     </article>

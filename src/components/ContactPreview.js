@@ -1,13 +1,13 @@
 const ContactPreview = () => {
   function sendEmai() {
     window.open(
-      "mailto:ekaterine.jpg@gmail.com?subject=SendMail&body=Description"
+      "mailto:snacorporations@gmail.com?subject=SendMail&body=Description"
     );
   }
   return (
     <article className="contact">
       <section>
-        <h2 className="title-font pink-text h2-tag">Contact Me</h2>
+        <h2 className="title-font pink-text h2-tag">Contact Us</h2>
         <br></br>
         {/* <span className="myemail-txt">&lt; / ekaterine.jpg@gmail.com &gt;</span> */}
         <p className="white-text p-tag">

@@ -130,7 +130,7 @@ const SideMenu = () => {
             <img src={Linkedin} alt="linkedin" />
           </a>
           <a
-            href="https://github.com/catherineisonline"
+            href="https://github.com/SNATechFirm"
             target="_blank"
             rel="noreferrer"
           >
@@ -146,7 +146,7 @@ const SideMenu = () => {
         </section>
         <section className="menu-email">
           <span className="myemail-txt">
-            &lt; / arpitnakrani2580@gmail.com &gt;
+            &lt; /snacorporations@gmail.com &gt;
           </span>
         </section>
       </section>

@@ -1,5 +1,6 @@
 {
   "name": "my-portfolio",
+  "homepage": "https://SNATechFirm.github.io/REACT-Portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -14,11 +15,11 @@
     "sass": "^1.49.11",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "/personal-portfolio",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "deploy": "gh-pages -d build -r https://github.com/catherineisonline/personal-portfolio",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
