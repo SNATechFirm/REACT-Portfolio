@@ -5,7 +5,7 @@ const HeaderPreview = () => {
     <article className="header">
       <h1 className="header-font white-text h2-tag">
         Hi, We're <br></br>
-        <em className="pink-text">SNA</em>
+        <em className="pink-text">Sentinels</em>
         <br></br>Best web developer For You
       </h1>
       <p className="gray-text p-tag">Front End Development</p>

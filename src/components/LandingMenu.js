@@ -57,7 +57,7 @@ const SideMenu = () => {
 
         <section className="menu-links">
           <NavLink
-            to="/personal-portfolio"
+            to="/"
             className=" gray-text "
             onClick={() => {
               ResetLocation();
@@ -122,13 +122,7 @@ const SideMenu = () => {
           </NavLink>
         </section>
         <section className="social-media">
-          <a
-            href="https://www.linkedin.com/in/catherinemitagvaria/"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <img src={Linkedin} alt="linkedin" />
-          </a>
+         
           <a
             href="https://github.com/SNATechFirm"
             target="_blank"
@@ -136,13 +130,7 @@ const SideMenu = () => {
           >
             <img src={Github} alt="github" />
           </a>
-          <a
-            href="https://codepen.io/catherineisonline"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <img src={Codepen} alt="codepen" />
-          </a>
+          
         </section>
         <section className="menu-email">
           <span className="myemail-txt">

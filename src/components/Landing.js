@@ -6,7 +6,7 @@ import Footer from "./Footer";
 import ScrollButton from "./ScrollButton";
 
 const Mainpage = () => {
-  document.title = "Catherine Mitagvaria | Personal Portfolio";
+  document.title = "Sentinels | Personal Portfolio";
   return (
     <article className="main-page">
       <HeaderPreview />
