@@ -49,7 +49,7 @@ const About = () => {
         Resume
       </a> */}
 
-      <section>
+{/* <section>
         <h2 className="title-font  pink-text h2-tag">Work Experience</h2>
         <section className="work-experience">
           {ExperienceData.map((info) => (
@@ -77,7 +77,7 @@ const About = () => {
             </section>
           ))}
         </section>
-      </section>
+      </section> */}
       <section>
         <h2 className="title-font  pink-text h2-tag">Education</h2>
         <section className="education">
@@ -99,26 +99,16 @@ const About = () => {
             <section>
               <h3>English</h3>
               <p>Professional working proficiency</p>
-              <h3>Georgian</h3>
+              <h3>Hindi</h3>
               <p>Native or bilingual proficiency</p>
-              <h3>Russian</h3>
-              <p>Limited working proficiency</p>
-              <h3>German</h3>
-              <p>Elementary proficiency</p>
+              <h3>Gujrati</h3>
+              <p>Fluent</p>
+              
             </section>
           </section>
         </section>
       </section>
-      <section>
-        <a
-          className="download-btn"
-          href={Resume}
-          download="Ekaterine-Mitagvaria"
-        >
-          <img src={DownloadIcon} alt="" className="download-img"></img>Download
-          Resume
-        </a>
-      </section>
+   
       <section>
         <h2 className="title-font  pink-text h2-tag">Certifications</h2>
         <section className="certification">
@@ -126,11 +116,8 @@ const About = () => {
             <section>
               <section>
                 <h3 className="h3-tag">{info.name}</h3>
-                <p>{info.source}</p>
-                <p>{info.date}</p>
-                <a href={info.creditUrl} target="_blank" rel="noreferrer">
-                  Show credential
-                </a>
+                <p className="pink-text">{info.source}</p>
+               
               </section>
             </section>
           ))}

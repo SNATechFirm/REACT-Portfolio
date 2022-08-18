@@ -140,15 +140,11 @@ const EducationData = [
     year: "2021",
   },
   {
-    name: "Tbilisi State University",
-    status: "Ba, Psychology",
-    year: "2012 - 2014",
+    name: "LD Collage Of Engineering",
+    status: "BTech, Computer Engineer",
+    year: "2017-2021",
   },
-  {
-    name: "Tbilisi public school N154",
-    status: "General Education Diploma",
-    year: "2000 - 2012",
-  },
+ 
 ];
 
 const CertificationData = [
