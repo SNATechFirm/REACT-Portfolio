@@ -18,7 +18,7 @@ root.render(
   <Router>
     <LandingMenu />
     <Routes>
-      <Route path="/personal-portfolio" element={<Landing />} />
+      <Route path="/" element={<Landing />} />
       <Route path="/personal-portfolio/about" element={<About />} />
       <Route path="/personal-portfolio/portfolio" element={<Portfolio />} />
       <Route path="/personal-portfolio/contact" element={<Contact />} />

@@ -7,7 +7,7 @@ const Footer = () => {
           target="_blank"
           rel="noreferrer"
         >
-          Designed & Built by SNA 
+          Designed & Built by Sentinels
         </a>
       </section>
     </article>
