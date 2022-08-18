@@ -46,7 +46,7 @@ const ProjectsPreviewData = [
     img: Bankist,
     name: "Bankist",
     stack: ["</ Vanilla JS >", "< CSS3 />", "< HTML5 />"],
-    src: "https://snatechfirm.github.io/Bankist/",
+    src: "https://bankist-bank.vercel.app/",
     source: "https://github.com/SNATechFirm/Bankist",
     description:
       "Bankist is a fictional online bank and its goal is to practice DOM manipulation and user interaction. Bankist has an option to log in to the account and use different functionalities, almost like in an actual bank! By logging into your account you can transfer money to another account, take a loan or delete the account. Please check README for login info.",
@@ -91,7 +91,7 @@ const ProjectsPreviewData = [
     img: Bankist,
     name: "Bankist",
     stack: ["</ Vanilla JS >", "< CSS3 />", "< HTML5 />"],
-    src: "https://snatechfirm.github.io/Bankist/",
+    src: "https://bankist-bank.vercel.app/",
     source: "https://github.com/SNATechFirm/Bankist",
     description:
       "Bankist is a fictional online bank and its goal is to practice DOM manipulation and user interaction. Bankist has an option to log in to the account and use different functionalities, almost like in an actual bank! By logging into your account you can transfer money to another account, take a loan or delete the account. Please check README for login info.",
