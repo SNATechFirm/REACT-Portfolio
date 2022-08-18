@@ -12,7 +12,7 @@ import Contact from "./components/Contact";
 
 import reportWebVitals from "./reportWebVitals";
 
-const container = document.getElementById("root");
+const container = document.getElementById("root")!;
 const root = createRoot(container);
 root.render(
   <Router>
