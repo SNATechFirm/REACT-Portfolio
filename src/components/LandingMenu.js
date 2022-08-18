@@ -45,7 +45,7 @@ const SideMenu = () => {
 
       <section className="main-menu">
         <Link
-          to="/personal-portfolio"
+          to="/REACT-Portfolio"
           className="logo-section"
           onClick={() => {
             ResetLocation();
@@ -57,12 +57,20 @@ const SideMenu = () => {
 
         <section className="menu-links">
           <NavLink
-            to="/"
+            to="/main"
             className=" gray-text "
             onClick={() => {
               ResetLocation();
               HideMenu();
             }}
+            style={({ isActive }) =>
+              isActive
+                ? {
+                    textDecoration: "none",
+                    color: "#fd1056",
+                  }
+                : {}
+            }
           >
             Main
           </NavLink>
