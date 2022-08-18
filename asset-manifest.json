@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/REACT-Portfolio/static/css/main.3127cb3a.css",
-    "main.js": "/REACT-Portfolio/static/js/main.548279a4.js",
+    "main.js": "/REACT-Portfolio/static/js/main.f1041c92.js",
     "static/js/787.128fc6e9.chunk.js": "/REACT-Portfolio/static/js/787.128fc6e9.chunk.js",
     "static/media/icon-black.png": "/REACT-Portfolio/static/media/icon-black.3e5984feb9629d99995b.png",
     "static/media/Ekaterine-Mitagvaria.pdf": "/REACT-Portfolio/static/media/Ekaterine-Mitagvaria.5a4b8216e43bfec902f1.pdf",
@@ -18,11 +18,11 @@
     "index.html": "/REACT-Portfolio/index.html",
     "static/media/linkedin-pink.svg": "/REACT-Portfolio/static/media/linkedin-pink.0170ec93bbe0fd3707cfa7e1666d0de5.svg",
     "main.3127cb3a.css.map": "/REACT-Portfolio/static/css/main.3127cb3a.css.map",
-    "main.548279a4.js.map": "/REACT-Portfolio/static/js/main.548279a4.js.map",
+    "main.f1041c92.js.map": "/REACT-Portfolio/static/js/main.f1041c92.js.map",
     "787.128fc6e9.chunk.js.map": "/REACT-Portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3127cb3a.css",
-    "static/js/main.548279a4.js"
+    "static/js/main.f1041c92.js"
   ]
 }
