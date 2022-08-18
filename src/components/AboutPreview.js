@@ -23,7 +23,9 @@ const AboutPreview = () => {
           <li>React.js</li>
           <li>Next.js</li>
           <li>Node Js</li>
+          <li>Express Js</li>
           <li>Mongodb</li>
+          <li>Firebase</li>
           <li>RESTful API</li>
           <li>Github</li>
           <li>Git</li>
